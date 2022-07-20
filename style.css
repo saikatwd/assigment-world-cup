@@ -7,6 +7,8 @@
     box-sizing: border-box;
 }
 
+/* main style  */
+
 .main {
     width: 80%;
     height: 646px;
@@ -146,6 +148,8 @@ main {
     display: flex;
     justify-content: space-between;
 }
+
+/* footer style  */
 
 footer {
     width: 1600px;
